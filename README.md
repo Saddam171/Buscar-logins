@@ -1,12 +1,12 @@
-### <p align="center"> [+] Tools Hacking - Find Login pages [+] </p>
-<h5 align='center'>If you are here, please leave a ⭐️ at <a href='https://github.com/GarudaID/search-login'>Search Login</a> ! Show your support! 👍🏻</h6>
+### <p align="center"> [+] Hacking de ferramentas - Encontre páginas de login [+] </p>
+<h5 align='center'>Se você está aqui, deixe um ⭐️em <a href='[https://github.com/GarudaID/search-login](https://github.com/Saddam171/Buscar-logins)'>Search Login</a>  ! Mostre seu apoio! 👍🏻🏻</h6>
 
 ```js
 <Quick Introduction>
-This exploit serves to find a login gap from the system administrator to enter the dashboard page.  
-This attack will usually work on websites that have the kcfinder extension.
+Essa exploração serve para encontrar uma lacuna de login do administrador do sistema para entrar na página do painel.
+Esse ataque geralmente funciona em sites que possuem a extensão kcfinder.
 
-This script was made by myself without the intervention of others.!
+Este roteiro foi feito por mim sem a intervenção de terceiros.!
 ```
 <hr>
 <p align="center">
@@ -14,23 +14,20 @@ This script was made by myself without the intervention of others.!
 </p><br>
 
 
-# Find Login feature
-- [x] Fast search
-- [x] Much wordlist
-- [x] Good connection
-- [x] Support for termux
-- [x] Coming soon for another os
+# Localizar recurso de login
+- [x] Pesquisa rápida
+- [x] muita lista de palavras
+- [x] boa conexão
+- [x] Suporte para termux
+- [x] Em breve para outro sistema operacional
 
-# [ Installation ]
+# [  Instalação  ]
 ```
-$ apt update upgrade
-$ apt install python3 git
-$ git clone https://github.com/GarudaID/search-login
+atualização de atualização $ apt
+$ apt instalar python3 git
+$ git clone https://github.com/Saddam171/Buscar-logins
 $ cd findlogin
-$ pip install -r requirement.txt
+$ pip install -r requisito.txt
 $ pip install asyncio aiohttp time socket request
 $ python meow.py
 ```
-
-# [ ERROR CODE ]
-Please open <a href="https://github.com/GarudaID/search-login/issues/new">issues</a> on my github or contact my Discrod account `XiaoXiao#5925`
